@@ -4,7 +4,7 @@ This file contains Google Colab links to some Projects.
 
 [Mushroom edibility](https://colab.research.google.com/drive/11RX_xJxQ9rrGkraprQarmrH4sSAdH6RZ?authuser=1)
 
-[Cats vs Dogs Image Classification](https://colab.research.google.com/drive/1jcxW0oZU4SYcjNkyBJ-_h469UkKefJDH?usp=sharing
+[Cats vs Dogs Image Classification](https://colab.research.google.com/drive/1jcxW0oZU4SYcjNkyBJ-_h469UkKefJDH?usp=sharing)
 
 [Nearest Earth Objects Study](https://colab.research.google.com/drive/1umFHrrvM8yMWQ7IXv9ETkE9je42xeuuQ)
 
